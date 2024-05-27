@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 836c7dac8dd4ffa4f87fd5c2621be71e
+guid: 03d7344d494df504e9d44b9e7d437c02
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -110,85 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boy_attack_0
+      name: Boy_idle_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 17
-        height: 25
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2530ab20cb186b141aa3b2320cbfe15c
-      internalID: 756096371
+      spriteID: 17766371ab000444aae203272e4ce2cc
+      internalID: 438544991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boy_attack_1
+      name: Boy_idle_1
       rect:
         serializedVersion: 2
-        x: 54
+        x: 48
         y: 0
-        width: 15
-        height: 25
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b4ed5d61722ac049a795b53aa604f5c
-      internalID: -368144898
+      spriteID: 9b64fa069b2e3a94fb2a747e5bc9b3f2
+      internalID: -1436706878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boy_attack_2
+      name: Boy_idle_2
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 0
-        width: 16
-        height: 25
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92108035c96fff24eb878ac456cc2f44
-      internalID: 1037435690
+      spriteID: 7ba8aea3737caad418087525bc3f2f75
+      internalID: 678190242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boy_attack_3
+      name: Boy_idle_3
       rect:
         serializedVersion: 2
-        x: 150
+        x: 144
         y: 0
-        width: 13
-        height: 25
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef1f62332ba5a834c830f51a954a0a97
-      internalID: -1863509135
+      spriteID: 8cf0d55f4346a374498a948e0c68fd57
+      internalID: 1165236824
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Boy_attack_0: 756096371
-      Boy_attack_1: -368144898
-      Boy_attack_2: 1037435690
-      Boy_attack_3: -1863509135
+      Boy_idle_0: 438544991
+      Boy_idle_1: -1436706878
+      Boy_idle_2: 678190242
+      Boy_idle_3: 1165236824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
