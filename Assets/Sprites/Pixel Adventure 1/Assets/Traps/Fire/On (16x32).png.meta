@@ -72,16 +72,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -94,7 +94,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,7 +107,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,7 +119,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: On (16x32)_0
+      name: Boy_idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,20 +127,83 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09e4fd137c9d2644fa37a5e8f1e9f748
-      internalID: -4039912110816036059
+      spriteID: 48e624b5d764a6343bf17b5d28a93b61
+      internalID: 438544991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: On (16x32)_1
+      name: Boy_idle_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c1455020c5fa41a3ef2361dc31a32
+      internalID: -1436706878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_idle_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f42fd3e2cd24874aa7610429344cfaf
+      internalID: 678190242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_idle_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc713d68f59d34c857ca56fd168ebc
+      internalID: 1165236824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (16x32)_0
       rect:
         serializedVersion: 2
         x: 16
@@ -154,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f69aa87246b5b3846b23589cce3db583
-      internalID: 6853643782822115200
+      spriteID: 017c35c8528671f47884b30baf5e7a2f
+      internalID: 813040900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: On (16x32)_2
+      name: On (16x32)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -175,8 +238,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bb27f3678a51d44bb0cf1456d2057b
-      internalID: -3538277728090221592
+      spriteID: 574491d382063e741878a49b2deb231f
+      internalID: -696247706
       vertices: []
       indices: 
       edges: []
@@ -192,9 +255,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      On (16x32)_0: -4039912110816036059
-      On (16x32)_1: 6853643782822115200
-      On (16x32)_2: -3538277728090221592
+      Boy_idle_0: 438544991
+      Boy_idle_1: -1436706878
+      Boy_idle_2: 678190242
+      Boy_idle_3: 1165236824
+      On (16x32)_0: 813040900
+      On (16x32)_1: -696247706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

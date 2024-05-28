@@ -87,16 +87,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,7 +109,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,7 +122,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -148,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 978efec6a4e426c469eaa6df7c4c2d9b
-      internalID: -3049067163339015078
+      spriteID: 8e93c2bca811fe140b774a08756fae70
+      internalID: -1988016971
       vertices: []
       indices: 
       edges: []
@@ -169,8 +169,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcff34e9b32d98049b202e09a66b5545
-      internalID: 5023087293052794153
+      spriteID: 72e7a69c29fbcd8419e20218ff421e67
+      internalID: 1294937867
       vertices: []
       indices: 
       edges: []
@@ -190,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 217c9e5c54e8eef42ac87b7dea22a4c9
-      internalID: 3635640145415724294
+      spriteID: 545b5706759f5594599b61a5eaa670b7
+      internalID: 1859528545
       vertices: []
       indices: 
       edges: []
@@ -211,8 +211,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bbcc804402d28049aa89c821f4aef7c
-      internalID: -3382226459320202674
+      spriteID: d858c7a5091d3a74182a278e89827e97
+      internalID: -608694004
       vertices: []
       indices: 
       edges: []
@@ -232,8 +232,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ebb23c116d33194b8a05e3f751ff09d
-      internalID: 6766133057857300771
+      spriteID: dc90f4fc746a7124ab7c5162842e4b21
+      internalID: -1331370188
       vertices: []
       indices: 
       edges: []
@@ -253,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f89a90399d25e54ba12f6494139187c
-      internalID: -6071002419338243549
+      spriteID: 07c19d58a8486ec42a0f4dc94333d7da
+      internalID: -1765145308
       vertices: []
       indices: 
       edges: []
@@ -274,8 +274,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eeb0ccad161fcf498bc5d7cd895b861
-      internalID: -7001973787898513139
+      spriteID: 0e38284096d44454a932313db959c652
+      internalID: -2038737224
       vertices: []
       indices: 
       edges: []
@@ -295,8 +295,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7538bc1370adcc4e812dee9429607e3
-      internalID: -7336932856281768672
+      spriteID: 422aa9c207294f74ba1fde3e7f580687
+      internalID: 2051697284
       vertices: []
       indices: 
       edges: []
@@ -312,14 +312,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      On (38x38)_0: -3049067163339015078
-      On (38x38)_1: 5023087293052794153
-      On (38x38)_2: 3635640145415724294
-      On (38x38)_3: -3382226459320202674
-      On (38x38)_4: 6766133057857300771
-      On (38x38)_5: -6071002419338243549
-      On (38x38)_6: -7001973787898513139
-      On (38x38)_7: -7336932856281768672
+      On (38x38)_0: -1988016971
+      On (38x38)_1: 1294937867
+      On (38x38)_2: 1859528545
+      On (38x38)_3: -608694004
+      On (38x38)_4: -1331370188
+      On (38x38)_5: -1765145308
+      On (38x38)_6: -2038737224
+      On (38x38)_7: 2051697284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

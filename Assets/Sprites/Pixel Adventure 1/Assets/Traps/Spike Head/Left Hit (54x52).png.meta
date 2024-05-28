@@ -75,16 +75,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,7 +97,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,7 +110,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,85 +122,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Left Hit (54x52)_0
+      name: Boy_idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713c4c95f5fdb1e4c8d864eeb4426a6c
-      internalID: 7889182698649827768
+      spriteID: 17766371ab000444aae203272e4ce2cc
+      internalID: 438544991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_1
+      name: Boy_idle_1
       rect:
         serializedVersion: 2
-        x: 54
+        x: 48
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482eb7053d5cc834397d88873f24f0db
-      internalID: -4867785508303738327
+      spriteID: 9b64fa069b2e3a94fb2a747e5bc9b3f2
+      internalID: -1436706878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_2
+      name: Boy_idle_2
       rect:
         serializedVersion: 2
-        x: 108
+        x: 96
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d3118abd09eb4e4cb44ab632dffaf70
-      internalID: -6190999649076277168
+      spriteID: 7ba8aea3737caad418087525bc3f2f75
+      internalID: 678190242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_3
+      name: Boy_idle_3
       rect:
         serializedVersion: 2
-        x: 162
+        x: 144
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c7f9f988f0a4ee419545ab581130755
-      internalID: 599716033573751369
+      spriteID: 8cf0d55f4346a374498a948e0c68fd57
+      internalID: 1165236824
       vertices: []
       indices: 
       edges: []
@@ -216,10 +216,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Left Hit (54x52)_0: 7889182698649827768
-      Left Hit (54x52)_1: -4867785508303738327
-      Left Hit (54x52)_2: -6190999649076277168
-      Left Hit (54x52)_3: 599716033573751369
+      Boy_idle_0: 438544991
+      Boy_idle_1: -1436706878
+      Boy_idle_2: 678190242
+      Boy_idle_3: 1165236824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

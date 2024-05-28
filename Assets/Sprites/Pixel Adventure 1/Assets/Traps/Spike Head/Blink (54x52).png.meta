@@ -75,16 +75,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,7 +97,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,7 +110,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,85 +122,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blink (54x52)_0
+      name: Boy_idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf03bd91a1f05da49a82d8cec006f78e
-      internalID: 4303423874142921733
+      spriteID: 17766371ab000444aae203272e4ce2cc
+      internalID: 438544991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (54x52)_1
+      name: Boy_idle_1
       rect:
         serializedVersion: 2
-        x: 54
+        x: 48
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be9166cb19eae5e4cae0d9d8955ab751
-      internalID: 7370585508839877132
+      spriteID: 9b64fa069b2e3a94fb2a747e5bc9b3f2
+      internalID: -1436706878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (54x52)_2
+      name: Boy_idle_2
       rect:
         serializedVersion: 2
-        x: 108
+        x: 96
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bd42a8700c588c438b4c4d9ca33e60b
-      internalID: 18105601139653782
+      spriteID: 7ba8aea3737caad418087525bc3f2f75
+      internalID: 678190242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (54x52)_3
+      name: Boy_idle_3
       rect:
         serializedVersion: 2
-        x: 162
+        x: 144
         y: 0
-        width: 54
-        height: 52
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5894c1068d0f5e4d8c65ca99dd164a5
-      internalID: 4110720337494812178
+      spriteID: 8cf0d55f4346a374498a948e0c68fd57
+      internalID: 1165236824
       vertices: []
       indices: 
       edges: []
@@ -216,10 +216,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Blink (54x52)_0: 4303423874142921733
-      Blink (54x52)_1: 7370585508839877132
-      Blink (54x52)_2: 18105601139653782
-      Blink (54x52)_3: 4110720337494812178
+      Boy_idle_0: 438544991
+      Boy_idle_1: -1436706878
+      Boy_idle_2: 678190242
+      Boy_idle_3: 1165236824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
